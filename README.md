@@ -33,9 +33,14 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+![Alt Text](https://im5.ezgif.com/tmp/ezgif-5-4ade713208.gif)
+
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+The main challenge for me was mainly getting used to the Mac iOS system. This is because I mainly use windows computers.
+
 
 ## License
 
@@ -52,3 +57,5 @@ Describe any challenges encountered while building the app.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    
